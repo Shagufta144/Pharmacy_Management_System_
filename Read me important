@@ -1,6 +1,6 @@
 To login to pharmacy management system use
-Username: Pharmacy
-Passoword: Pharmacy
+Username: pharmacist
+Passoword: pharmacist
 
 To access the register form on the url type localhost/pharmacy_v1/register.php. this helps you create a new account
 
